@@ -1,0 +1,15 @@
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\Exercicio09.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\Exercicio09.cs.AssemblyInfoInputs.cache
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\Exercicio09.cs.AssemblyInfo.cs
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\Exercicio09.cs.csproj.CoreCompileInputs.cache
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\Exercicio09.cs.sourcelink.json
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\bin\Debug\net8.0\Exercicio09.cs.exe
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\bin\Debug\net8.0\Exercicio09.cs.deps.json
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\bin\Debug\net8.0\Exercicio09.cs.runtimeconfig.json
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\bin\Debug\net8.0\Exercicio09.cs.dll
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\bin\Debug\net8.0\Exercicio09.cs.pdb
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\Exercicio09.cs.dll
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\refint\Exercicio09.cs.dll
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\Exercicio09.cs.pdb
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\Exercicio09.cs.genruntimeconfig.cache
+C:\_Ws\ListaCSharp\ListaAvaliativaCSharp\Exercicio09.cs\obj\Debug\net8.0\ref\Exercicio09.cs.dll
